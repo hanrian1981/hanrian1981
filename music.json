@@ -1,0 +1,277 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "",
+      "admob_bannerid": "ca-app-pub-7763542908071140/9607518165",
+      "admob_openid": "ca-app-pub-7763542908071140/8828310036",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 5
+    
+    }
+  ],"Mp3": [
+    {
+    "name_mp3": "Once Upon a Time",
+    "link_mp3": "https://archive.org/download/14.-improvisations/01.%20Once%20Upon%20a%20Time.mp3"
+  },{
+    "name_mp3": "Fallen Down",
+    "link_mp3": "https://archive.org/download/14.-improvisations/02.%20Fallen%20Down.mp3"
+  },{
+    "name_mp3": "Ruins",
+    "link_mp3": "https://archive.org/download/14.-improvisations/03.%20Ruins.mp3"
+  },{
+    "name_mp3": "Enemy Approaching",
+    "link_mp3": "https://archive.org/download/14.-improvisations/04.%20Enemy%20Approaching.mp3"
+  },{
+    "name_mp3": "Determination",
+    "link_mp3": "https://archive.org/download/14.-improvisations/05.%20Determination.mp3"
+  },{
+    "name_mp3": "Home",
+    "link_mp3": "https://archive.org/download/14.-improvisations/06.%20Home.mp3"
+  },{
+    "name_mp3": "Heartache",
+    "link_mp3": "https://archive.org/download/14.-improvisations/07.%20Heartache.mp3"
+  },{
+    "name_mp3": "Snowdin Town",
+    "link_mp3": "https://archive.org/download/14.-improvisations/08.%20Snowdin%20Town.mp3"
+  },{
+    "name_mp3": "Waterfall",
+    "link_mp3": "https://archive.org/download/14.-improvisations/09.%20Waterfall.mp3"
+  },{
+    "name_mp3": "Another Medium",
+    "link_mp3": "https://archive.org/download/14.-improvisations/10.%20Another%20Medium.mp3"
+  },{
+    "name_mp3": "Undertale",
+    "link_mp3": "https://archive.org/download/14.-improvisations/11.%20Undertale.mp3"
+  },{
+    "name_mp3": "SAVE The World",
+    "link_mp3": "https://archive.org/download/14.-improvisations/12.%20SAVE%20the%20World.mp3"
+  },{
+    "name_mp3": "Reunited",
+    "link_mp3": "https://archive.org/download/14.-improvisations/13.%20Reunited.mp3"
+  },{
+    "name_mp3": "Improvisations",
+    "link_mp3": "https://archive.org/download/14.-improvisations/14.%20Improvisations.mp3"
+  },{
+    "name_mp3": "Finally Home",
+    "link_mp3": "https://archive.org/download/14.-improvisations/15.%20Finally%20Home.mp3"
+  },{
+    "name_mp3": "Start Menu",
+    "link_mp3": "https://archive.org/download/utmp3/02%20-%20Start%20Menu.mp3"
+  },{
+    "name_mp3": "Your Best Friend",
+    "link_mp3": "https://archive.org/download/utmp3/03%20-%20Your%20Best%20Friend.mp3"
+  },{
+    "name_mp3": "Uwa!! So Temperate♫",
+    "link_mp3": "https://archive.org/download/utmp3/06%20-%20Uwa%21%21%20So%20Temperate%E2%99%AB.mp3"
+  },{
+    "name_mp3": "Unnecessary Tension",
+    "link_mp3": "https://archive.org/download/utmp3/08%20-%20Unnecessary%20Tension.mp3"
+  },{
+    "name_mp3": "Enemy Approaching",
+    "link_mp3": "https://archive.org/download/utmp3/09%20-%20Enemy%20Approaching.mp3"
+  },{
+    "name_mp3": "Ghost Fight",
+    "link_mp3": "https://archive.org/download/utmp3/10%20-%20Ghost%20Fight.mp3"
+  },{
+    "name_mp3": "Determination",
+    "link_mp3": "https://archive.org/download/utmp3/11%20-%20Determination.mp3"
+  },{
+    "name_mp3": "Home - Music Box",
+    "link_mp3": "https://archive.org/download/utmp3/13%20-%20Home%20%28Music%20Box%29.mp3"
+  },{
+    "name_mp3": "Sans",
+    "link_mp3": "https://archive.org/download/utmp3/15%20-%20sans..mp3"
+  },{
+    "name_mp3": "Nyeh Heh Heh!",
+    "link_mp3": "https://archive.org/download/utmp3/16%20-%20Nyeh%20Heh%20Heh%21.mp3"
+  },{
+    "name_mp3": "Snowy",
+    "link_mp3": "https://archive.org/download/utmp3/17%20-%20Snowy.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  }
+  ],"Wallpaper": [
+    {
+      "image": "https://1.bp.blogspot.com/--OHhkjw_T_A/YJ_lmVUypAI/AAAAAAAACg4/M9ByC0VNNr4kzWJWPKG3kx6ZdSfnMUI8gCLcBGAsYHQ/s0/Undertale-undertale-the-game-40179092-1280-1978.jpg"
+    }
+  ]
+}
